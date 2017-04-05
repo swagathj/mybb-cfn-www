@@ -105,3 +105,4 @@ $config['log_pruning'] = array(
  */
 
 $config['secret_pin'] = '';
+
